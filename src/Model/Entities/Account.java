@@ -1,6 +1,6 @@
-package Model;
+package Model.Entities;
 
-import Exceptions.DomainException;
+import Model.Exceptions.DomainException;
 
 public class Account {
 
